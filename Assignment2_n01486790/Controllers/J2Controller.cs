@@ -33,7 +33,7 @@ namespace Assignment2_n01486790.Controllers
             if (m <= 0 || n <= 0)
             {
 
-                message = "Please input two positive integers.";
+                message = message + "Please input two positive integers.";
 
             }
 
